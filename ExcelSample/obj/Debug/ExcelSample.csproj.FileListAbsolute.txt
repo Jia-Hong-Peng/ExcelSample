@@ -1,0 +1,16 @@
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\ExcelSample.exe.config
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\ExcelSample.exe
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\ExcelSample.pdb
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\NPOI.dll
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\NPOI.OOXML.dll
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\bin\Debug\NPOI.xml
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\obj\Debug\ExcelSample.csprojResolveAssemblyReference.cache
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\obj\Debug\ExcelSample.csproj.ResolveComReference.cache
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\obj\Debug\ExcelSample.Form1.resources
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\obj\Debug\ExcelSample.Properties.Resources.resources
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\obj\Debug\ExcelSample.csproj.GenerateResource.Cache
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\obj\Debug\ExcelSample.exe
+c:\users\jamesjh_peng\documents\visual studio 2012\Projects\ExcelSample\ExcelSample\obj\Debug\ExcelSample.pdb
